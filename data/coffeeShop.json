@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Brew Haven",
+    "location": "Downtown",
+    "specialty": "Espresso"
+  },
+  {
+    "id": 2,
+    "name": "Cafe Bliss",
+    "location": "Uptown",
+    "specialty": "Latte Art"
+  },
+  {
+    "id": 3,
+    "name": "Roast & Relax",
+    "location": "Midtown",
+    "specialty": "Cold Brew"
+  },
+  {
+    "id": 4,
+    "name": "Morning Perk",
+    "location": "West End",
+    "specialty": "Cappuccino"
+  },
+  {
+    "id": 5,
+    "name": "Cozy Bean",
+    "location": "East Side",
+    "specialty": "Flat White"
+  },
+  {
+    "id": 6,
+    "name": "Java Junction",
+    "location": "Near Station",
+    "specialty": "Mocha"
+  }
+]
